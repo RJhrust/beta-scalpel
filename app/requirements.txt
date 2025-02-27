@@ -1,0 +1,6 @@
+ccxt
+pandas
+pandas_ta
+asyncio
+requests
+python-telegram-bot
